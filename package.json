@@ -1,0 +1,23 @@
+{
+  "name": "afec",
+  "version": "1.0.0",
+  "description": "een veranderde file wat nu?",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauravangorp/afec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauravangorp/afec/issues"
+  },
+  "homepage": "https://github.com/lauravangorp/afec#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
